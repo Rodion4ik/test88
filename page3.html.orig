@@ -1,0 +1,11 @@
+<head></head>
+<<<<<<< HEAD
+
+<body><h1>test Master coflict merging</h1><h2></body>
+
+=======
+<body><h1>test</h1>
+	<h3>text for test merge conflict</h3
+	>	
+	<h2></body>
+>>>>>>> newfix2
